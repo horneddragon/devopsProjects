@@ -1,0 +1,3 @@
+OneDrive/Desktop/Devops/Git/githhub/projects/Manual_project/vprofile-project/vagrant/Manual_provisioning_WinMacIntel 
+
+file:///C:/Users/Sanjana%20K/Downloads/VprofileProjectSetupWindowsAndMacIntel.pdf
